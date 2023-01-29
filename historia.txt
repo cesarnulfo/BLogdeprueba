@@ -1,5 +1,6 @@
 Esta es la historia de Cesar Mora
 
-Aprendiendo java script en platzi 
+Aprendiendo java script en platzi, llevo 1 semana en platzi
+soy usuario de Colombia
 
 actualmente voy en el curso profesional de Git y Git-hub
